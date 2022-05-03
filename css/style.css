@@ -15,7 +15,7 @@ header{
     width: 100%;
     height: 100vh;
     margin: 0px;
-    background: linear-gradient(90deg, rgba(4,4,6,1) 0%, rgba(35,35,36,0.5) 0%), url("/img/bgHeaderMe.png");
+    background: linear-gradient(90deg, rgba(4,4,6,1) 0%, rgba(35,35,36,0.5) 0%), url("../img/bgHeaderMe.jpg");
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-attachment: fixed;
