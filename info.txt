@@ -1,0 +1,16 @@
+Requerimientos:
+    Elaborar una página web con su hoja de vida que contenga las siguientes etiquetas:
+        tabla (Lenguajes que conozco o estoy estudianto)
+        listas numeradas (Actividades que me gusta realizar)
+        imágenes (programando)
+        videos  
+        colores
+
+Rubrica:
+    La aplicación práctica está desarrollada con HTML5. 
+    Muestra un funcionamiento correcto. 
+    Cumple con las siguientes funcionalidades: 
+        1. Cuenta con un menú para navegar. 
+        2. Tiene al menos 3 categorías. 
+        3. Cuenta con texto claro, sin errores ortográficos y con un manejo adecuado de la escritura. 
+        4. Tiene imágenes claras, video y música
